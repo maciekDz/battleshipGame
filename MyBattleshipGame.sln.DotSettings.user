@@ -1,0 +1,30 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3e149b9_002D2943_002D44bf_002D90e3_002Df9022ec9db9e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Board10X10Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.BoardTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.FleetBuilderTests.FleetBuilder_ReturnsFleet&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.FleetBuilderTests.FleetBuilder_ReturnsFleet_ForUpTp17MastsInTotal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.FleetBuilderTests.FleetBuilder_ReturnsValidShipCount_On10X10Territory&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.FleetBuilderTests.FleetBuilder_ReturnsValidMastCount_On10X10Territory&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.FleetBuilderTests.FleetBuilder_ReturnsNonOverlappingShips_On10X10Territory&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.FleetBuilderTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.Board10X10Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.SquareProviderTests.Squares_AfterCreation_HaveProperSquaresCount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.SquareProviderTests.Board_AfterCreation_HasProperlyAssignedNeighbours&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.RandomCoordinatesPickerTests.GetCoordinates_ReturnsSquareAddress_FromGivenTerritory&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.RandomCoordinatesPickerTests.GetCoordinates_ThrowsException_WhenAllAddressesArePicked&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.RandomCoordinatesPickerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.HumanVsComputerPlayerFactoryTests.CreatePlayers_ReturnsTwoPlayers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.HumanVsComputerPlayerFactoryTests.CreatePlayers_ReturnsExpectedTypesOfPlayers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.BasicStyleProviderTests.WrapElement_ReturnsExpectedString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.BasicStyleProviderTests.ApplyColumnHeaderStyle_AfterExecution_LeavesConsoleColorUnchanged&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.BasicStyleProviderTests.ApplyRowHeaderStyle_AfterExecution_LeavesConsoleColorUnchanged&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.BasicStyleProviderTests.ApplySquareStyle_AfterExecution_LeavesConsoleColorUnchanged&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.BasicStyleProviderTests.ApplyNotificationStyle_AfterExecution_LeavesConsoleColorUnchanged&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.BasicStyleProviderTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.ManualCoordinatesPickerTests.GetCoordinates_AcceptsConsoleReadLine&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.ManualCoordinatesPickerTests.GetCoordinates_ReturnsElementFromTerritory_WhenConsoleReadLineIsOverridden&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.ManualCoordinatesPickerTests.PotentiallyLongRunningTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::03E9923A-9E99-4E03-8A9E-2A73BC13330B::.NETFramework,Version=v4.7.2::MyBattleshipGame.Tests.ManualCoordinatesPickerTests.Test_MyFunction_DoesNotRunForever&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

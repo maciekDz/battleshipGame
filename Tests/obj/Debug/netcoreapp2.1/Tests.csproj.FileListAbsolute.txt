@@ -1,0 +1,10 @@
+C:\Users\Maciek\source\repos\MyBattleshipGame\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\Maciek\source\repos\MyBattleshipGame\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Maciek\source\repos\MyBattleshipGame\Tests\bin\Debug\netcoreapp2.1\MyBattleshipGame.exe
+C:\Users\Maciek\source\repos\MyBattleshipGame\Tests\bin\Debug\netcoreapp2.1\MyBattleshipGame.pdb
+C:\Users\Maciek\source\repos\MyBattleshipGame\Tests\bin\Debug\netcoreapp2.1\MyBattleshipGame.exe.config
+C:\Users\Maciek\source\repos\MyBattleshipGame\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Users\Maciek\source\repos\MyBattleshipGame\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\repos\MyBattleshipGame\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\Maciek\source\repos\MyBattleshipGame\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Users\Maciek\source\repos\MyBattleshipGame\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete

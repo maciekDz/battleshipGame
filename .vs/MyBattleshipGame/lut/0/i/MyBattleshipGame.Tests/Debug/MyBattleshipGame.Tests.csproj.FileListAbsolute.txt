@@ -1,0 +1,5 @@
+C:\Users\Maciek\source\repos\MyBattleshipGame\.vs\MyBattleshipGame\lut\0\b\MyBattleshipGame.Tests\bin\Debug\MyBattleshipGame.Tests.dll
+C:\Users\Maciek\source\repos\MyBattleshipGame\.vs\MyBattleshipGame\lut\0\i\MyBattleshipGame.Tests\Debug\MyBattleshipGame.Tests.csprojAssemblyReference.cache
+C:\Users\Maciek\source\repos\MyBattleshipGame\.vs\MyBattleshipGame\lut\0\i\MyBattleshipGame.Tests\Debug\MyBattleshipGame.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\repos\MyBattleshipGame\.vs\MyBattleshipGame\lut\0\i\MyBattleshipGame.Tests\Debug\MyBattleshipGame.Tests.csproj.CopyComplete
+C:\Users\Maciek\source\repos\MyBattleshipGame\.vs\MyBattleshipGame\lut\0\i\MyBattleshipGame.Tests\Debug\MyBattleshipGame.Tests.dll

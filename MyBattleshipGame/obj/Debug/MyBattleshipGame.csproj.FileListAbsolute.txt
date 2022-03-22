@@ -1,0 +1,7 @@
+C:\Users\Maciek\source\repos\MyBattleshipGame\MyBattleshipGame\bin\Debug\MyBattleshipGame.exe.config
+C:\Users\Maciek\source\repos\MyBattleshipGame\MyBattleshipGame\bin\Debug\MyBattleshipGame.exe
+C:\Users\Maciek\source\repos\MyBattleshipGame\MyBattleshipGame\bin\Debug\MyBattleshipGame.pdb
+C:\Users\Maciek\source\repos\MyBattleshipGame\MyBattleshipGame\obj\Debug\MyBattleshipGame.csprojAssemblyReference.cache
+C:\Users\Maciek\source\repos\MyBattleshipGame\MyBattleshipGame\obj\Debug\MyBattleshipGame.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\repos\MyBattleshipGame\MyBattleshipGame\obj\Debug\MyBattleshipGame.exe
+C:\Users\Maciek\source\repos\MyBattleshipGame\MyBattleshipGame\obj\Debug\MyBattleshipGame.pdb
